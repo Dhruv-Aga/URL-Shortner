@@ -26,3 +26,5 @@ How to run:
 
   ``npm start``
 - Done! Application is ready to use
+
+- Checkout APIs at **http://localhost:3000/api-docs/**
